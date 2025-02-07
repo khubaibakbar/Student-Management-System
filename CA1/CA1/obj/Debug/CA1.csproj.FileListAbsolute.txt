@@ -1,0 +1,14 @@
+C:\Users\kinut\source\repos\CA1\CA1\bin\Debug\App_Data\DB.mdf
+C:\Users\kinut\source\repos\CA1\CA1\bin\Debug\App_Data\DB_log.ldf
+C:\Users\kinut\source\repos\CA1\CA1\bin\Debug\CA1.exe.config
+C:\Users\kinut\source\repos\CA1\CA1\bin\Debug\CA1.exe
+C:\Users\kinut\source\repos\CA1\CA1\bin\Debug\CA1.pdb
+C:\Users\kinut\source\repos\CA1\CA1\obj\Debug\CA1.csproj.AssemblyReference.cache
+C:\Users\kinut\source\repos\CA1\CA1\obj\Debug\CA1.AddStudent.resources
+C:\Users\kinut\source\repos\CA1\CA1\obj\Debug\CA1.Form1.resources
+C:\Users\kinut\source\repos\CA1\CA1\obj\Debug\CA1.Properties.Resources.resources
+C:\Users\kinut\source\repos\CA1\CA1\obj\Debug\CA1.csproj.GenerateResource.cache
+C:\Users\kinut\source\repos\CA1\CA1\obj\Debug\CA1.csproj.CoreCompileInputs.cache
+C:\Users\kinut\source\repos\CA1\CA1\obj\Debug\CA1.exe
+C:\Users\kinut\source\repos\CA1\CA1\obj\Debug\CA1.pdb
+C:\Users\kinut\source\repos\CA1\CA1\obj\Debug\CA1.AddLecturer.resources
